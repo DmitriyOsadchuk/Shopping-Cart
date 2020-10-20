@@ -32,3 +32,11 @@ $ npm install
 - Next you can run the application on your localhost:
 
 ```bash
+$ npm start
+```
+
+- Build for production:
+
+```bash
+$ npm run build
+```
